@@ -9,4 +9,4 @@
 
 
 <h2>Code Ouput</h2>
-<img src="output.png" alt="Four function calculator created in Java">
+<img href="output.png" alt="Four function calculator created in Java">
